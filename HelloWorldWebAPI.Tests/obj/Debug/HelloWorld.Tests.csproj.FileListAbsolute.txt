@@ -1,0 +1,1 @@
+c:\users\nejibe\documents\visual studio 2013\Projects\HelloWorldSolution\HelloWorldWebAPI.Tests\obj\Debug\HelloWorld.Tests.csprojResolveAssemblyReference.cache
