@@ -75,7 +75,9 @@
     FileList = @()
 
     # Private data to pass to the module specified in ModuleToProcess
-    PrivateData = ''}
+    PrivateData = ''
+﻿    
+﻿}
 # SIG # Begin signature block
 # MIIaRgYJKoZIhvcNAQcCoIIaNzCCGjMCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
